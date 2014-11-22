@@ -12,7 +12,13 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require  bootstrap-lightbox
+//= require  bootstrap-lightbox.min
 //= require foundation
+//= require jquery.flexslider-min
+//= require inview
+//= require smooth-scroll
+//= require scripts
 //= require turbolinks
 //= require_tree .
 
