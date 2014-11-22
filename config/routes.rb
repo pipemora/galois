@@ -1,4 +1,7 @@
 Micropost::Application.routes.draw do
+  get "static_pages/game_1"
+  get "static_pages/game_2"
+  get "static_pages/game_3"
   devise_for :users
   resources :posts
 
