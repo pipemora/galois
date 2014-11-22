@@ -52,7 +52,7 @@ p a, p a:visited { line-height: inherit; }
 
 .alt-h{
 	font-family: 'Montserrat', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-weight: bold; }
-}
+
 
 /* Reset for strange margins by default on <figure> elements */
 figure { margin: 0; }
